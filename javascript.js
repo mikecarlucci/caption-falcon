@@ -117,7 +117,7 @@ var captions = [
 	'Oh dear, our odds at escaping on that are... *Threepio\'s head explodes',
 	'Translated from shyriiwook:"Noooo! You can tell from the meat that he stirred, whipped, then whipped again before going back to stirring! That burger\'s no good!"',
 	'She\'ll make point five past lunch time',
-	'🎶”Cheeseburger and a pair of dice”🎶',
+	'♫\”Cheeseburger and a pair of dice\”&#9835;',
 	'What a piece of chuck',
 	'Great, Chewie. Always thinking with your stomach.',
 	'If this ship is as juicy as his boasting, we ought to do well',
